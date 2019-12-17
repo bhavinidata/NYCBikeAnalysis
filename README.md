@@ -32,7 +32,7 @@ https://public.tableau.com/profile/bhavini5231#!/vizhome/City_Bike_Analysis_1576
 * By what percentage has total ridership grown?
 27.64% ridership growth from 2017 to 2018.
 
-![Citi-Bikes](Images/Percentage change in ridership.png)
+![Citi-Bikes](Images/Percentagechangeinridership.png)
 
 * Today, what are the top 10 stations in the city for starting a journey and ending journey? 
 Grove St Path is the most Popular in starting and ending the journey.
@@ -41,7 +41,7 @@ Grove St Path is the most Popular in starting and ending the journey.
 
 Based on below graph and can be seen in Tableau dashboard that for both the years 2017-2018, stations popularity not changing much. Based on that, we can say that those stations will remain same.
 
-![Citi-Bikes](Images/Top-Bottom Start-EndStations.png)
+![Citi-Bikes](Images/Top-BottomStart-EndStations.png)
 
 
 * How has the proportion of short-term customers and annual subscribers changed?
@@ -50,15 +50,18 @@ Total riders increase during summer month, but it is interesting to see that rat
 
 * What are the peak hours in which bikes are used during summer months?
 * What are the peak hours in which bikes are used during winter months?
-
 During Summer and Winter, Bike usage is mostly between 7-9am and 6-8pm. It is understood that mainly students and working people uses bike more due to the bike usage in constant time period.
 
+![Citi-Bikes](Images/BikeUsageInsummer-winter-perday.png)
+
 * What is the gender breakdown of active participants (Male v. Female)?
- Male    riders are higher than female riders. Also there are data which doesn’t contain any gender info. People don’t want to tell or may be in hurry.
+ Male riders are higher than female riders. Also there are data which doesn’t contain any gender info. People don’t want to tell or may be in hurry.
 * How effective has gender outreach been in increasing female ridership over the timespan?
 Female and male riders increases over the time. Male Riders are majority.
 * How does the average trip duration change by age?
 Riders of age between 15-20 and 45-50 years are more compared to other age.
+
+![Citi-Bikes](Images/TripDuration-NoOfTripsByAge-Gender.png)
 
 ### Analysis By Map
 
@@ -69,6 +72,8 @@ https://public.tableau.com/profile/bhavini5231#!/vizhome/Station_popularity/Stat
 * A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
 
 By looking at maps, it seems either this limited dataset doesn’t contain Manhattan data or in Manhattan area these are very few use of ending stations. There is no starting station over that area.
+
+![Citi-Bikes](Images/StationPopularityOverTime.png)
 
 
 
