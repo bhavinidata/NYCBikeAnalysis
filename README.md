@@ -1,5 +1,7 @@
 # NewYork Citi Bike Analytics
 
+![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
+
 ## Task
 Generate reports for city officials looking to publicize and improve the city program (largest bike sharing program in the United States).
 
@@ -30,9 +32,17 @@ https://public.tableau.com/profile/bhavini5231#!/vizhome/City_Bike_Analysis_1576
 * By what percentage has total ridership grown?
 27.64% ridership growth from 2017 to 2018.
 
+![Citi-Bikes](Images/Percentage change in ridership.png)
+
 * Today, what are the top 10 stations in the city for starting a journey and ending journey? 
+Grove St Path is the most Popular in starting and ending the journey.
+
 * Today, what are the bottom 10 stations in the city for starting a journey and ending journey? 
+
 Based on below graph and can be seen in Tableau dashboard that for both the years 2017-2018, stations popularity not changing much. Based on that, we can say that those stations will remain same.
+
+![Citi-Bikes](Images/Top-Bottom Start-EndStations.png)
+
 
 * How has the proportion of short-term customers and annual subscribers changed?
 Subscribers are higher in number than customers (short term).
