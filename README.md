@@ -27,7 +27,7 @@ https://public.tableau.com/profile/bhavini5231#!/vizhome/City_Bike_Analysis_1576
 
 * How many trips have been recorded total during the chosen period?\
 2017: 266,129\
-2018: 339,687\
+2018: 339,687
 
 * By what percentage has total ridership grown?\
 27.64% ridership growth from 2017 to 2018.
@@ -51,7 +51,7 @@ Total riders increase during summer month, but it is interesting to see that rat
 * What are the peak hours in which bikes are used during summer months?
 * What are the peak hours in which bikes are used during winter months?\
 During Summer and Winter, Bike usage is mostly between 7-9am and 6-8pm during weekdays. It is understood that mainly students and working people uses bike more due to the bike usage in constant time period.\
-While during weekends, Bike usage increases after 9am and starts to decrease after 7pm.\
+While during weekends, Bike usage increases after 9am and starts to decrease after 7pm.
 
 ![Citi-Bikes](Images/BikeUsageInsummer-winter-perday.png)
 
@@ -60,7 +60,7 @@ While during weekends, Bike usage increases after 9am and starts to decrease aft
 * How effective has gender outreach been in increasing female ridership over the timespan?\
 Female and male riders increases over the time. Male Riders are majority.
 * How does the average trip duration change by age?
-Riders of age between 15-20 and 45-50 years are more compared to other age.\
+Riders of age between 15-20 and 45-50 years are more compared to other age.
 
 ![Citi-Bikes](Images/TripDuration-NoOfTripsByAge-Gender.png)
 
